@@ -16,7 +16,7 @@
     "node-fetch": "^2.6.0"
   },
   "repository": {
-    "url": "https://github.com/haradasiegel/discord-telegram-bridge"
+    "url": "https://github.com/daaniiieel/discord-telegram-bridge"
   },
   "license": "GPL-3.0-or-later",
   "keywords": [
